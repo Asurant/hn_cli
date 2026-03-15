@@ -1,5 +1,5 @@
 [package]
-name = "hn_cli"
+name = "hn_cli_resolution_week1"
 version = "0.1.0"
 edition = "2024"
 description = "A simple CLI that prints out the top 25 hacker news posts"
