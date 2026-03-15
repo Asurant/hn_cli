@@ -10,7 +10,7 @@ struct Story{
 }
 
 fn main() {
-    println!("Top 10 Hacker News Stories\n");
+    println!("Top 25 Hacker News Stories\n");
 
     let client = reqwest::blocking::Client::new(); //Using reqwest's blocking client. HTTP requests run synchronously
 
